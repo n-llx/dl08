@@ -19,5 +19,5 @@ int main(void){
       a_n = (a_n + b_n)/2;
     }
   }
-  printf("Resultat : %lf \n", a_n);
+  printf("W(x) = %lf \n", a_n);
 }
